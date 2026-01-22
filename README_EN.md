@@ -15,6 +15,7 @@ influence the popularity of trending videos.
 ## 🗂️ Repository Structure
 - `dashboard/` → Dashboard in tableau
 - `datasets/` → Dataset used for the analysis
+- `Presentación Análisis de tendencias YouTube.pdf` → Project presentation
 - `README.md` → Project description in Spanish
 - `README_EN.md` → Project description in English
 
