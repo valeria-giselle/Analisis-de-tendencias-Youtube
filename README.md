@@ -14,6 +14,7 @@ Identificar tendencias en el consumo de contenido en YouTube y comprender qué
 factores influyen en la popularidad de los videos en tendencia.
 
 ## 🗂️ Estructura del repositorio
+- `dashboard/`→ Dashboard en tableau
 - `datasets/`→ Dataset utilizado para el análisis
 - `README.md` → Descripción del proyecto en español
 - `README_EN.md` → Descripción del proyecto en inglés
