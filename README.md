@@ -16,6 +16,7 @@ factores influyen en la popularidad de los videos en tendencia.
 ## 🗂️ Estructura del repositorio
 - `dashboard/`→ Dashboard en tableau
 - `datasets/`→ Dataset utilizado para el análisis
+- `Presentación Análisis de tendencias YouTube.pdf` → Presentación del proyecto
 - `README.md` → Descripción del proyecto en español
 - `README_EN.md` → Descripción del proyecto en inglés
 
