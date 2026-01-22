@@ -14,9 +14,9 @@ Identificar tendencias en el consumo de contenido en YouTube y comprender qué
 factores influyen en la popularidad de los videos en tendencia.
 
 ## 🗂️ Estructura del repositorio
-- `datasets/`→ dataset utilizado para el análisis
-- `README.md` → descripción del proyecto en español
-- `README_EN.md` → descripción del proyecto en inglés
+- `datasets/`→ Dataset utilizado para el análisis
+- `README.md` → Descripción del proyecto en español
+- `README_EN.md` → Descripción del proyecto en inglés
 
 ## ⚙️ Herramientas utilizadas
 - Tableau
@@ -35,6 +35,6 @@ El análisis incluyó:
 - Detección de patrones de popularidad asociados al engagement
 - Visualización clara de métricas clave para apoyar la toma de decisiones
 
-## 📌 Notas
+## ✨ Notas
 Este proyecto se desarrolló como parte de un ejercicio de análisis de datos
 enfocado en visualización y análisis exploratorio utilizando Tableau.
